@@ -116,7 +116,7 @@ function App() {
   <h2>Опыт работы</h2>
   <div className="experience-item">
     <h3>Frontend разработчик</h3>
-    <p><strong>Компания "Purrweb"</strong> | октябрь 2023 - март 2025</p>
+    <p><strong>Компания "Purrweb"</strong> | декабрь 2023 - июль 2025</p>
     <ul>
       <li>Разработка и поддержка клиентской части SPA на React и TypeScript</li>
       <li>Интеграция с чат-API для реализации мессенджера в реальном времени</li>
