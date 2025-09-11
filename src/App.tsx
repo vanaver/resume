@@ -6,9 +6,9 @@ const portfolioItems = [
     title: "Ежедневник с ИИ",
     description: "Адаптивный лендинг с двумя темами использующий ИИ",
     stack: "React, CSS Modules, DeepseekApi, vite....",
-    demoLink: "https://prismatic-sprinkles-0a8653.netlify.app",
+    demoLink: "https://legendary-heliotrope-c5f2f4.netlify.app",
     codeLink: "https://github.com/vanaver/Task-diary",
-    note: null
+    note: "*Для работы api требуется VPN"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const portfolioItems = [
     stack: "React, TypeScript, CSS Modules и тд",
     demoLink: "https://translateteach.netlify.app",
     codeLink: "https://github.com/vanaver/Translate-Teach",
-    note: "*Для работы требуется VPN"
+    note: "*Для работы api требуется VPN"
   },
   {
     id: 3,
