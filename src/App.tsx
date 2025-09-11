@@ -7,7 +7,7 @@ const portfolioItems = [
     description: "Адаптивный лендинг с двумя темами использующий ИИ",
     stack: "React, CSS Modules, DeepseekApi, vite....",
     demoLink: "https://prismatic-sprinkles-0a8653.netlify.app",
-    codeLink: "https://github.com/vanaver",
+    codeLink: "https://github.com/vanaver/Task-diary",
     note: null
   },
   {
@@ -16,7 +16,7 @@ const portfolioItems = [
     description: "Платформа для личного изучения языков",
     stack: "React, TypeScript, CSS Modules и тд",
     demoLink: "https://translateteach.netlify.app",
-    codeLink: "https://github.com/vanaver",
+    codeLink: "https://github.com/vanaver/Translate-Teach",
     note: "*Для работы требуется VPN"
   },
   {
@@ -25,7 +25,7 @@ const portfolioItems = [
     description: "Можно отсюда добавлять и искать треки для Клиента Spotify",
     stack: "React, TypeScript, Spotify API и остальное",
     demoLink: "https://musicappbe.netlify.app",
-    codeLink: "https://github.com/vanaver",
+    codeLink: "https://github.com/vanaver/musicapp",
     note: "*Требуется аккаунт Spotify и VPN"
   }
 ];
