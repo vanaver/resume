@@ -74,7 +74,7 @@ function App() {
             </div>
             <div className="skill-category">
               <h3>Frontend</h3>
-              <div className="skills-list">React, React Router</div>
+              <div className="skills-list">React, NextJs, React Native, React Router</div>
             </div>
             <div className="skill-category">
               <h3>Bundlers</h3>
@@ -86,7 +86,7 @@ function App() {
             </div>
             <div className="skill-category">
               <h3>Tools</h3>
-              <div className="skills-list">Git</div>
+              <div className="skills-list">Git, Redux, Zustand, Axios</div>
             </div>
           </div>
         </section>
