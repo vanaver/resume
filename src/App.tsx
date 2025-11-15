@@ -150,7 +150,7 @@ function App() {
                 </svg>
               </a>
 
-              <a href="https://spb.hh.ru/resume/91ba3b58ff0f4c153c0039ed1f546d31744741" id='hhru' target="_blank" rel="noopener noreferrer" className="btn-icon" aria-label="HeadHunter">
+              <a href="https://spb.hh.ru/resume/12ca7927ff0f5bd34d0039ed1f564677747161" id='hhru' target="_blank" rel="noopener noreferrer" className="btn-icon" aria-label="HeadHunter">
                 hh.ru
               </a>
 
